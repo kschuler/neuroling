@@ -11,11 +11,11 @@
 | 7 | Oct 10 | Syntax | TBD  |  | 
 | 8 | Oct 17 | Semantics | TBD | | 
 | 9 | Oct 24 | Acquisition | TBD  |  | 
-| 10 | Oct 31 | **Catch up (in case of cancellation)** | TBD |  |
+| 10 | Oct 31 | **Flex** | TBD |  |
 | 11 | Nov 7 | Sign language | TBD |  |
 | 12 | Nov 14 | Bilingualism |  TBD |  | 
 | 13 | Nov 21 | Evolution | TBD |     | 
 | 14 | Nov 28 |**Thanksgiving break**  |   |
 | 15 | Dec 5 | Cerebellum  |  TBD |  |
-| 16 | Dec 9 | Last day of classes (no class) |   | |
+| 16 | Dec 9 | No class |   | |
 | 17 |  | | 

@@ -13,7 +13,7 @@ website:
         href: index.qmd
       - text: Resources
         href: index.qmd#resources
-      - section: Readings
+      - text: Readings
         href: index.qmd#readings
       - text: Schedule
         href: index.qmd#schedule
