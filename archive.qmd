@@ -1,7 +1,7 @@
 # Archive
 
 Course materials for past semesters can be found below: 
-<!-- 
-- [Fall 2023](https://kathrynschuler.com/datasci-fall2023/)
-- [Spring 2023](https://childlanglab.gitbook.io/ling0700) -->
+
+- [Fall 2023](https://kathrynschuler.com/neuroling-fall2023/)
+- [Fall 2021](https://kathrynschuler.com/neurolinguistics)
 

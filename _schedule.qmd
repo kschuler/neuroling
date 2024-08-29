@@ -1,4 +1,4 @@
-# Schedule 
+## Schedule 
 
 | Week | Date |  Topic | Presenter(s) | Due  |
 | -  | -- |  ------- | --- | ---- |

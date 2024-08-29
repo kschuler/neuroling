@@ -14,22 +14,20 @@
 
 - Katie Schuler: TBD in 314C
 
-### Requirements 
+**Requirements**: This is an advanced STEM seminar. Below are the major requiements, but please read the [tips for seminars](tips.qmd) to understand further: 
 
-**Reading prep**: Each week, you will be responsible for preparing for the discussion by completing the assigned reading. As you read,  you are responsible for asking questions and begining the discussion of the paper in our reading annotation tool, Perusall. 
-
-**Discussion leader**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one or two other students. As discussion leader, your group will be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. 
-
-**Final paper**: You will select a paper of interest to you (within the bounds of language and the brain) and short write research analysis of the work (in the form of a nature "New & Views" paper; example [here](https://www.nature.com/articles/d41586-024-02525-z)). There are a few checkpoints leading up to this final paper (including peer review) to help you make progress.
+- **Reading prep**: Each week, you will be responsible for preparing for the discussion by completing the assigned reading. As you read,  you are responsible for asking questions and beginning the discussion of the paper in our reading annotation tool, Perusall. 
+- **Discussion leader**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one or two other students. As discussion leader, your group will be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. 
+- **Final paper**: You will select a paper of interest to you (within the bounds of language and the brain) and write a research analysis of the work (in the form of a nature "News & Views" paper; example [here](https://www.nature.com/articles/d41586-024-02525-z)). There are a few checkpoints leading up to this final paper (including peer review) to help you make progress.
 
 **Grading**:
 
 - 30% Participation in discussion (including reading prep in Perusall)
-- 30% Discussion leader 
+- 40% Discussion leader 
 - 30% Final paper (including several check-points throughout the semester: paper selection, outline, drafts, and peer review)
 
 
-**Accomodations**: I will support any accommodations arranged through Disability Services via the [Weingarten Center](https://weingartencenter.universitylife.upenn.edu/disability-services/) and to make alternate arrangements when class conflicts with a religious holidy. Please make notify me as soon as possible if you require accomodations. 
+**Accomodations**: I will support any accommodations arranged through Disability Services via the [Weingarten Center](https://weingartencenter.universitylife.upenn.edu/disability-services/) and to make alternate arrangements when class conflicts with a religious holiday. Please notify me as soon as possible if you require accomodations. 
 
 **Extra credit**: There is no extra credit in the course. However, students can submit any missed reading prep by the end of the semester for half credit (50%).  To ensure fair treatment, all students will receive a 1% "bonus" to their final course grade: 92.54% will become 93.54%.
 

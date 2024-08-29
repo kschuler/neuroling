@@ -15,15 +15,6 @@ website:
         href: index.qmd#resources
       - section: Readings
         href: index.qmd#readings
-        # contents: 
-        #   - text: Study guides
-        #     href: index.qmd#study-guides
-        #   - text: Problem sets 
-        #     href: index.qmd#problem-sets
-        #   - text: Exams
-        #     href: index.qmd#exams
-        #   - text: Lab exercises
-        #     href: index.qmd#lab-exercises
       - text: Schedule
         href: index.qmd#schedule
 
