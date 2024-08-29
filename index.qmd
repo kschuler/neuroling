@@ -1,0 +1,18 @@
+---
+title: Neurolinguistics
+subtitle: Fall 2024
+format:
+    html: 
+        toc: false
+    pdf: default
+---
+
+Welcome to Neurolinguistics! The Fall 2024 course information and materials are below. Course materials from previous semesters are archived [here](archive.qmd).
+
+{{< include _syllabus.qmd >}}
+
+{{< include _resources.qmd >}}
+
+{{< include _readings.qmd >}}
+
+{{< include _schedule.qmd >}}

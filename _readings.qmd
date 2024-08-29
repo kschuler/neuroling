@@ -1,0 +1,38 @@
+## Readings
+
+::: {.callout-warning title="Under Construction"}
+Topics and readings may change slightly based on class interest, but this is to give you an idea of the topics
+:::
+
+
+- Week 3: Networks
+    - Catani, Jones, & Ffytche 2005 
+    - Fedorenko & Thompson-Schill 2014
+- Week 4: Perspective 
+    - Krakauer et al 2017 
+    - Embick & Poeppel 2015 
+- Week 5: Phonemes
+    - Scott et al 2000 
+    - Nishimura et al 1999 
+    - Werker & Hensh 2015 
+- Week 7: Syntax
+    - Ding et al 2016 
+    - Kaan & Swaab 2002 
+- Week 8: Semantics
+    - Lau et al 2008 
+    - Friedrich & Friederici 
+- Week 9: Acquisition 
+    - Perani et al 2011 
+    - Lenneberg 1969 
+- Week 11: Sign Language
+    - Mayberry et al 2011 
+    - Petitto et al 2000 
+- Week 12: Bilingualism
+    - Weber-Fox & Neville 1996 
+    - Osterhout et al 2006 
+- Week 13: Evolution 
+    - Wilson et al 2017 
+    - Rilling et al 2008 
+- Week 15: Cerebellum
+    - Marien et al 2014 
+    - Lesage et al 2012 

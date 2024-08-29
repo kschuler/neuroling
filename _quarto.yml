@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Neurolinguistics"
+  sidebar:
+    style: "docked"
+    search: true
+    type: "dark"
+    contents: 
+      - text: Syllabus
+        href: index.qmd
+      - text: Resources
+        href: index.qmd#resources
+      - section: Readings
+        href: index.qmd#readings
+        # contents: 
+        #   - text: Study guides
+        #     href: index.qmd#study-guides
+        #   - text: Problem sets 
+        #     href: index.qmd#problem-sets
+        #   - text: Exams
+        #     href: index.qmd#exams
+        #   - text: Lab exercises
+        #     href: index.qmd#lab-exercises
+      - text: Schedule
+        href: index.qmd#schedule
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

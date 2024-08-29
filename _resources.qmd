@@ -1,0 +1,16 @@
+## Resources
+
+In addition to our course website, we will use the following:
+
+* [canvas](https://canvas.upenn.edu/courses/1809307)- for posting grades
+* [perusall](https://app.perusall.com/courses/ling-3740-402-5740-401-202430-neurolinguistics/_/dashboard/assignments/6wi5gos5PnxApBjyA) - for reading annotations
+* [ed discussion](https://edstem.org/us/courses/65316/discussion/) - for announcements and questions
+
+Other helpful materials and resources: 
+
+* [tips for seminars](tips.qmd)
+
+Please consider using these Penn resources this semester:
+
+- [Weingarten Center](https://weingartencenter.universitylife.upenn.edu/academic-support/) for academic support and tutoring. 
+- [Wellness at Penn](https://wellness.upenn.edu/) for health and wellbeing.

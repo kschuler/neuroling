@@ -1,0 +1,54 @@
+## Getting started 
+
+### Quick overview of the course
+
+- This is a seminar on neurolinguistics
+- First few weeks: build a foundation on how brains work (neurons, networks, anatomy)
+- Then each week we’ll focus on a different topic in language and the brain (phonology, morphology, evolution, etc)
+- **You** will present the papers and lead the discussions (with a small group of peers) 
+
+### Interest form
+
+Fill out this interest form to let me know your fav topics!
+
+[https://forms.gle/2V9EGcHzqETdaSqw5](https://forms.gle/2V9EGcHzqETdaSqw5)
+
+### General expectations
+
+Let's review the syllabus together!
+
+### Activity 1: Get to know each other
+
+Students will divide into four (even if possible) groups. Then, for each of the following, I will ask you to organize your group into the line or blob described: 
+
+1. Line up in chronological order of your birthday (e.g. Jan 11)
+2. Line up in order of how many siblings you have
+3. Line up in order of the number of miles home is from Penn
+4. Line up in order of the number of people in your high school graduating class
+5. Organize into blobs to represent your linguistics experience
+6. Organize into blobs to represent your neuroscience experience
+7. Organize into blobs to represent your majors
+8. Organize into blobs to represent your class year (senior, junior...)
+9. Group choice! Organize yourselves into a line or blob to represent something of your choice as a group.
+
+### Activity 2: Learning to use Perusall 
+
+Next we will practice using our annotation tool, perusall. 
+
+### Activity 3: Practice paper in neuroscience
+
+Finally we will practice reading a neuroscience paper! Setting up: 
+
+1. Divide into groups of no more than 4 people.
+2. Join the [perusall](https://app.perusall.com/courses/ling-3740-402-202330-neurolinguistics/) from Canvas (each individual)
+3. With your group, you will be reading and summarizing one section of the paper [von Melchner, Pallas, & Sur (2000): Visual behavior mediated by retinal projections directed to the auditory pathway](https://app.perusall.com/courses/ling-3740-402-202330-neurolinguistics/_/dashboard/assignments/2XNaGGiyoJvfMAj9n).
+4. Katie will assign your group a specific section of the paper. Your goal is to (1) generate good discussion in Perusall and (2) summarize your section with a slide in the google slides and share it on Ed Discussion (Katie will showcase them on the projector).
+5. Group presentation: you'll be asked to present your section as a group.
+
+#### Tips 
+
+- Step 2 in [this blog post](https://sarneckalab.blogspot.com/2018/07/writing-workshop-chapter-5.html) by Barbara Sarnecka has helpful advice about reading journal articles for your purpose. 
+- While you are reading your section, use Perusall to annotate the document with any questions that come up (questions you want to pose to the class or things you aren't sure about). 
+- When you are making your slides, remember that the most important thing is to get the main points across. Don't worry about the specific details. 
+- Relatedly, try not to use jargon (especially if you don't know what it means!) Example: "They used a chemical on one part of their brain so it stopped working" is much better than "they lesioned the lGN with ibontenic acid"
+- Add questions for discussion in Perusall. Be curious! What did reading this make you wonder about? Why? Does it remind you of anything else?
