@@ -21,6 +21,7 @@ Let's review the syllabus together!
 
 Students will divide into four (even if possible) groups. Then, for each of the following, I will ask you to organize your group into the line or blob described: 
 
+0. Introduce yourselves to each other
 1. Line up in chronological order of your birthday (e.g. Jan 11)
 2. Line up in order of how many siblings you have
 3. Line up in order of the number of miles home is from Penn
@@ -34,14 +35,17 @@ Students will divide into four (even if possible) groups. Then, for each of the 
 ### Activity 2: Learning to use Perusall 
 
 Next we will practice using our annotation tool, perusall. 
+ 
+1. Divide into groups of no more than 4 people.
+2. Join Perusall from Canvas (each individual)
+3. Work together on the Making the most of learning with Perusall.
+
 
 ### Activity 3: Practice paper in neuroscience
 
 Finally we will practice reading a neuroscience paper! Setting up: 
 
-1. Divide into groups of no more than 4 people.
-2. Join the [perusall](https://app.perusall.com/courses/ling-3740-402-202330-neurolinguistics/) from Canvas (each individual)
-3. With your group, you will be reading and summarizing one section of the paper [von Melchner, Pallas, & Sur (2000): Visual behavior mediated by retinal projections directed to the auditory pathway](https://app.perusall.com/courses/ling-3740-402-202330-neurolinguistics/_/dashboard/assignments/2XNaGGiyoJvfMAj9n).
+3. With your group, you will be reading (in perusall) and summarizing one section of the paper **von Melchner, Pallas, & Sur (2000): Visual behavior mediated by retinal projections directed to the auditory pathway**.
 4. Katie will assign your group a specific section of the paper. Your goal is to (1) generate good discussion in Perusall and (2) summarize your section with a slide in the google slides and share it on Ed Discussion (Katie will showcase them on the projector).
 5. Group presentation: you'll be asked to present your section as a group.
 
