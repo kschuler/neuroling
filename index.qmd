@@ -13,6 +13,6 @@ Welcome to Neurolinguistics! The Fall 2024 course information and materials are 
 
 {{< include _resources.qmd >}}
 
-{{< include _readings.qmd >}}
-
 {{< include _schedule.qmd >}}
+
+
