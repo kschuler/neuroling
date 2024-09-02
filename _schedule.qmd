@@ -8,7 +8,7 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | -  | -- |  ------- | --- | ---- |
 | 1 | Aug 29 | [Getting started](getting-started.qmd) <br> Katie (Instructor) | |
 | 2 | Sep 5 | CNS, neurons, and methods <br> Katie (Instructor) |  |
-| 3 | Sep 12 | **Perspective** <br> Krakauer et al (2017): Chloe, Dillon, Erica <br> Embick & Poeppel (2015): Esther, Mahir, Sophia | |
+| 3 | Sep 12 | **Perspective** <br> Krakauer et al (2017): Chloe, Dillon, Erica <br> Embick & Poeppel (2015): Esther, Mahir, Sophia | Topic selection (Thurs) |
 | 4 | Sep 19 | **Networks** <br> Esther, Jo, Na, Mahir, Sophia, Jaehyuk |  | 
 | 5 | Sep 26 | **Phonemes & Syntax** <br> Daniel, Dillon, Greg, Ninjin, Tali |  |
 | 6 | Oct 3 | **Fall break (no class)**  | Outline due (Tues) |
