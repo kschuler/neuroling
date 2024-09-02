@@ -13,10 +13,10 @@ website:
         href: index.qmd
       - text: Resources
         href: index.qmd#resources
-      - text: Readings
-        href: index.qmd#readings
-      - text: Final paper
-        href: index.qmd#paper
+      # - text: Readings
+      #   href: index.qmd#readings
+      # - text: Final paper
+      #   href: index.qmd#paper
       - text: Schedule
         href: index.qmd#schedule
 format:
