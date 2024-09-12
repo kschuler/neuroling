@@ -1,0 +1,3 @@
+# Final paper checkpoints 
+
+- [Checkpoint 1: Topic selection](/final_paper/checkpoint-1.qmd)
