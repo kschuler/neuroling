@@ -26,7 +26,7 @@ subtitle: Due Monday September 23 at Noon
 
 ---
 
-### Part 2: Paper Selection
+## Part 2: Paper Selection
 
 Now that you have a better understanding of how research is communicated in a *News & Views* format, it’s time to begin considering papers for your final project.
 
@@ -39,14 +39,14 @@ Now that you have a better understanding of how research is communicated in a *N
 
 ---
 
-### **Submission Format**:
+## **Submission Format**:
 - Submit a PDF that includes:
    1. Your reflection on the *Nature News & Views* article.
    2. Your three selected papers with notes on each (summary, pros, cons).
 
 ---
 
-### Evaluation Criteria:
+## Evaluation Criteria:
 - **Reflection on Structure**: Does your reflection show a clear understanding of the *Nature News & Views* format?
 - **Paper Selection**: Have you thoughtfully considered the relevance and potential challenges of each selected paper?
 

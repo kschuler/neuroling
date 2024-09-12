@@ -15,8 +15,8 @@ website:
         href: index.qmd#resources
       # - text: Readings
       #   href: index.qmd#readings
-      # - text: Final paper
-      #   href: index.qmd#paper
+      - text: Final paper
+        href: index.qmd#final-paper
       - text: Schedule
         href: index.qmd#schedule
 format:
