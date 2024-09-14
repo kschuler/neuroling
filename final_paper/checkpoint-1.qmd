@@ -8,7 +8,7 @@ subtitle: Due Monday September 23 at Noon
 
 **Objective**: To help you understand the structure and purpose of a *Nature News & Views*-style article and begin selecting potential papers for your final analysis, which will be presented in this format.
 
----
+
 
 ## Part 1: Read and Analyze a *Nature News & Views* Paper
 
@@ -24,7 +24,7 @@ subtitle: Due Monday September 23 at Noon
 
 3. **Write a Short Reflection**: After reading the sample article, write a brief (250-300 word) reflection on what you learned about the structure and purpose of a *Nature News & Views* article. Focus on how the author balances accessibility with depth, and how they present the research to a general audience.
 
----
+
 
 ## Part 2: Paper Selection
 
@@ -37,16 +37,14 @@ Now that you have a better understanding of how research is communicated in a *N
    - **Pros**: Why are you interested in this paper? Does it align well with the course themes, provide strong evidence, or offer an interesting perspective?
    - **Cons**: What are some potential challenges with using this paper? Is there limited data, narrow scope, or another reason it might be less suitable?
 
----
 
-## **Submission Format**:
+
+## Submission and Evaluation
 - Submit a PDF that includes:
    1. Your reflection on the *Nature News & Views* article.
    2. Your three selected papers with notes on each (summary, pros, cons).
 
----
-
-## Evaluation Criteria:
-- **Reflection on Structure**: Does your reflection show a clear understanding of the *Nature News & Views* format?
-- **Paper Selection**: Have you thoughtfully considered the relevance and potential challenges of each selected paper?
+- Evaluation Criteria
+   - **Reflection on Structure**: Does your reflection show a clear understanding of the *Nature News & Views* format?
+   - **Paper Selection**: Have you thoughtfully considered the relevance and potential challenges of each selected paper?
 
