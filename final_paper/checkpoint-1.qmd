@@ -12,7 +12,7 @@ subtitle: Due Monday September 23 at Noon
 
 ## Part 1: Read and Analyze a *Nature News & Views* Paper
 
-1. **Read the Sample**: I’ve provided a sample *Nature News & Views* paper [insert link or attachment here]. This type of article communicates the significance and context of a research paper to a broader audience, highlighting its key findings and implications.
+1. **Read the Sample**: I’ve provided a sample *Nature News & Views* paper [here](https://www.nature.com/articles/d41586-024-02525-z). This type of article communicates the significance and context of a research paper to a broader audience, highlighting its key findings and implications.
 
 2. **Analyze the Structure**:
    - As you read, think about these questions:
