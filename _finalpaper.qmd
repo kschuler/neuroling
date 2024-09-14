@@ -1,3 +1,4 @@
-## Final paper checkpoints 
+## Final paper
 
 - [Checkpoint 1: Topic selection](/final_paper/checkpoint-1.qmd)
+- [Checkpoint 2: Outline](/final_paper/checkpoint-2.qmd)
