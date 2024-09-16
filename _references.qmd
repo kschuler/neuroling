@@ -2,8 +2,7 @@
 
 Full list of papers **read by** or of interest to the class this semester 
 
-- Week 1: 
-- Week 2: 
+- Weeks 1 & 2: Gettings started and basic brain neuroscience
 - Week 3: Perspective
     - **Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.**
     - **Embick, D., & Poeppel, D. (2015). Towards a computational (ist) neurobiology of language: correlational, integrated and explanatory neurolinguistics. Language, cognition and neuroscience, 30(4), 357-366.**
@@ -47,7 +46,6 @@ Full list of papers **read by** or of interest to the class this semester
     - Fisher, S. E., & Scharff, C. (2009). FOXP2 as a molecular window into speech and language. Trends in Genetics, 25(4), 166-177.
     - Wilson, B., Marslen-Wilson, W. D., & Petkov, C. I. (2017). Conserved sequence processing in primate frontal cortex. Trends in neurosciences, 40(2), 72-82.
 - Week 16: No class, reading period 
-
 - Not covered this year: Cerebellum
     - Lesage, E., Morgan, B. E., Olson, A. C., Meyer, A. S., & Miall, R. C. (2012). Cerebellar rTMS disrupts predictive language processing. Current Biology, 22(18), R794-R795.
     - Mariën, P., Ackermann, H., Adamaszek, M., Barwood, C. H., Beaton, A., Desmond, J., ... & Ziegler, W. (2014). Consensus paper: language and the cerebellum: an ongoing enigma. The Cerebellum, 13, 386-410.
