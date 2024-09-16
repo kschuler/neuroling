@@ -1,15 +1,14 @@
 ---
-title: Checkpoint 2
+title: "Checkpoint 2: Outline"
 subtitle: Due Monday October 7 at noon
 
 ---
 
-# Paper Selection and Outline
 
-## **Objective**: 
+#### Objective
 The goal of this checkpoint is to help you decide which paper you will write about and create a detailed outline of your *News & Views* article. 
 
-## **Tasks**:
+#### Tasks
 
 1. **Select One Paper**: From the three papers you previously chose, select the one you will focus on for your final *News & Views* article. Consider which paper has the most compelling findings or broader implications, which is most interesting to you, and which one you feel confident about explaining clearly to a general audience.
 
@@ -24,8 +23,7 @@ The goal of this checkpoint is to help you decide which paper you will write abo
    - **Balanced Depth**: While writing for accessibility, also maintain depth by emphasizing the research’s significance and the connections to bigger questions.
    - **Engagement**: Think about how to keep readers interested throughout. You might include a surprising fact, real-world relevance, or something to spark curiosity.
 
-## Submission and evaluation
-
+#### Submission and evaluation
 
 - **Submission** : Submit your completed outline in PDF format. Ensure that each section (Introduction, Summary, Broader Implications, Conclusion) is clearly labeled.
   

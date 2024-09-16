@@ -23,7 +23,13 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
+    toc: false
+    number-sections: false
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
+    toc: false
+    number-sections: false
+    highlight-style: github
 
 

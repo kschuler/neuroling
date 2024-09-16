@@ -1,9 +1,11 @@
 ## Final paper
 
-- [Checkpoint 1: Topic selection](/final_paper/checkpoint-1.qmd)
-- [Checkpoint 2: Outline](/final_paper/checkpoint-2.qmd)
-- [Checkpoint 3: Peer review 1]()
-- [Checkpoint 4: Revised outline]()
-- [Checkpoint 5: Paper draft]()
-- [Checkpoint 6: Peer review 2]()
-- [Checkpoint 7: Final paper]()
+There are checkpoints that go into your final paper grade, due on the following Mondays at noon. Extensions of up to 1 week will be granted for any reason. Beyond that, you can turn in any missed checkpoint for half-credit (50%) by the end of the semester.
+
+- [Checkpoint 1: Topic selection due Sep 23](/final_paper/checkpoint-1.qmd)
+- [Checkpoint 2: Outline due Oct 7](/final_paper/checkpoint-2.qmd)
+- [Checkpoint 3: Peer review 1 due Oct 21]()
+- [Checkpoint 4: Revised outline due Nov 4]()
+- [Checkpoint 5: Paper draft due Nov 21]()
+- [Checkpoint 6: Peer review 2 due Dec 5]()
+- [Checkpoint 7: Final paper due Dec 16]()
