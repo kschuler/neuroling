@@ -10,16 +10,16 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | 2 | Sep 5 | [CNS, neurons, and methods](cns-neurons-methods.qmd) <br> Katie (Instructor) |  |
 | 3 | Sep 12 | **Perspective** <br> Krakauer et al (2017): Chloe, Dillon, Erica <br> Embick & Poeppel (2015): Esther, Mahir, Sophia |  |
 | 4 | Sep 19 | **Networks** <br> Esther, Jo, Na, Mahir, Sophia, Jaehyuk | Topic selection (Thurs)  | 
-| 5 | Sep 26 | **Phonemes & Syntax** <br> Daniel, Dillon, Greg, Ninjin, Tali |   |
-| 6 | Oct 3 | **Fall break (no class)**  | Outline due (Tues) |
-| 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Tess, Na |  | 
-| 8 | Oct 17 | **No class (Katie @ conference)** | Peer review I (Thurs) | 
-| 9 | Oct 24 | **Acquisition II** <br> Alyssa, Chloe, Daniel, Dillon, Esther, Greg, Jo, Kamelija  |  | 
+| 5 | Sep 26 | **Phonemes & Syntax** <br> Daniel, Dillon, Greg, Ninjin, Tali | [1 Topic selection (due 9/23)](/final_paper/checkpoint-1.qmd)  |
+| 6 | Oct 3 | **Fall break (no class)**  | |
+| 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Tess, Na | [2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
+| 8 | Oct 17 | **No class (Katie @ conference)** | | 
+| 9 | Oct 24 | **Acquisition II** <br> Alyssa, Chloe, Daniel, Dillon, Esther, Greg, Jo, Kamelija  | [3 Peer review 1 (due 10/21)]()  | 
 | 10 | Oct 31 | **Bilingualism I** <br> Alyssa, Erica, Kamelija, Sophia, Daniel, Greg |  |
-| 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | Paper draft due (Thurs) |
+| 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | [4 Revised outline (due 11/4)]() |
 | 12 | Nov 14 | **Bilingualism II** <br> Carey, Chloe, Leann, Katie, Na, Karis, Jo |  | 
-| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Tess, Jaehyuk  |     | 
+| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Tess, Jaehyuk  |  [5 Paper draft (due 11/21)]()   | 
 | 14 | Nov 28 |**Thanksgiving break (no class)**    | Peer Review II (Tues) |
-| 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Tess, Mahir |  |
+| 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Tess, Mahir | [6 Peer review 2 (due 12/5)]() |
 | 16 | Dec 9 | No class |    |
-| 17 |  | Final paper (TBD) | 
+| 17 |  | [7 Final paper (due 12/16)]() | 

@@ -2,3 +2,8 @@
 
 - [Checkpoint 1: Topic selection](/final_paper/checkpoint-1.qmd)
 - [Checkpoint 2: Outline](/final_paper/checkpoint-2.qmd)
+- [Checkpoint 3: Peer review 1]()
+- [Checkpoint 4: Revised outline]()
+- [Checkpoint 5: Paper draft]()
+- [Checkpoint 6: Peer review 2]()
+- [Checkpoint 7: Final paper]()
