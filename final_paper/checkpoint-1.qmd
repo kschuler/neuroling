@@ -42,11 +42,11 @@ Now that you have a better understanding of how research is communicated in a *N
 
 
 #### Submission and Evaluation
-Submit a PDF that includes:
-1. Your reflection on the *Nature News & Views* article.
-2. Your three selected papers with notes on each (summary, pros, cons).
+- Submit a PDF that includes:
+   1. Your reflection on the *Nature News & Views* article.
+   2. Your three selected papers with notes on each (summary, pros, cons).
 
-Evaluation Criteria: 
-- **Reflection on Structure**: Does your reflection show a clear understanding of the *Nature News & Views* format?
-- **Paper Selection**: Have you thoughtfully considered the relevance and potential challenges of each selected paper?
+- Evaluation Criteria: 
+   - **Reflection on Structure**: Does your reflection show a clear understanding of the *Nature News & Views* format?
+   - **Paper Selection**: Have you thoughtfully considered the relevance and potential challenges of each selected paper?
 
