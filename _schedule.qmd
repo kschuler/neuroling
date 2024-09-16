@@ -14,12 +14,12 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | 6 | Oct 3 | **Fall break (no class)**  | |
 | 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Tess, Na | [CP2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
 | 8 | Oct 17 | **No class (Katie @ conference)** | | 
-| 9 | Oct 24 | **Acquisition II** <br> Alyssa, Chloe, Daniel, Dillon, Esther, Greg, Jo, Kamelija  | [CP3 Peer review 1 (due 10/21)]()  | 
+| 9 | Oct 24 | **Acquisition II** <br> Alyssa, Chloe, Daniel, Dillon, Esther, Greg, Jo, Kamelija  | [CP3 Peer review 1 (due 10/21)](/final_paper/3)  | 
 | 10 | Oct 31 | **Bilingualism I** <br> Alyssa, Erica, Kamelija, Sophia, Daniel, Greg |  |
-| 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | [CP4 Revised outline (due 11/4)]() |
+| 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | [CP4 Revised outline (due 11/4)](/final_paper/checkpoint-4.qmd) |
 | 12 | Nov 14 | **Bilingualism II** <br> Carey, Chloe, Leann, Katie, Na, Karis, Jo |  | 
-| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Tess, Jaehyuk  |  [CP5 Paper draft (due 11/21)]()   | 
+| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Tess, Jaehyuk  |  [CP5 Paper draft (due 11/21)](/final_paper/checkpoint-5.qmd)   | 
 | 14 | Nov 28 |**Thanksgiving break (no class)**    | Peer Review II (Tues) |
-| 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Tess, Mahir | [CP6 Peer review 2 (due 12/5)]() |
+| 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Tess, Mahir | [CP6 Peer review 2 (due 12/5)](/final_paper/checkpoint-6.qmd) |
 | 16 | Dec 9 | No class |    |
-| 17 |  | [7 Final paper (due 12/16)]() | 
+| 17 |  | [CP7 Final paper (due 12/16)](/final_paper/checkpoint-7.qmd) | 
