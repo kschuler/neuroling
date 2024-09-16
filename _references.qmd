@@ -2,7 +2,7 @@
 
 Full list of papers **read by** or of interest to the class this semester 
 
-- Weeks 1 & 2: Gettings started and basic brain neuroscience
+- Weeks 1 & 2: Gettings started and basic neuroscience
 - Week 3: Perspective
     - **Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.**
     - **Embick, D., & Poeppel, D. (2015). Towards a computational (ist) neurobiology of language: correlational, integrated and explanatory neurolinguistics. Language, cognition and neuroscience, 30(4), 357-366.**
