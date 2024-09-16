@@ -9,7 +9,7 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | 1 | Aug 29 | [Getting started](getting-started.qmd) <br> Katie (Instructor) | |
 | 2 | Sep 5 | [CNS, neurons, and methods](cns-neurons-methods.qmd) <br> Katie (Instructor) |  |
 | 3 | Sep 12 | **Perspective** <br> Krakauer et al (2017): Chloe, Dillon, Erica <br> Embick & Poeppel (2015): Esther, Mahir, Sophia |  |
-| 4 | Sep 19 | **Networks** <br> Esther, Jo, Na, Mahir, Sophia, Jaehyuk |   | 
+| 4 | Sep 19 | **Networks** <br> [Malik-Moraleda et al 2022](https://canvas.upenn.edu/courses/1809307/assignments/12815591) - Esther, Jo, Na<br>[Fedorenko et al 2024](https://canvas.upenn.edu/courses/1809307/assignments/12815592)- Mahir, Sophia, Jaehyuk |   | 
 | 5 | Sep 26 | **Phonemes & Syntax** <br> Daniel, Dillon, Aymeric, Ninjin, Tali, Jaehyuk | [CP1 Topic selection (due 9/23)](/final_paper/checkpoint-1.qmd)  |
 | 6 | Oct 3 | **Fall break (no class)**  | |
 | 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Nwai, Na | [CP2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
@@ -18,7 +18,7 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | 10 | Oct 31 | **Bilingualism I** <br> Alyssa, Erica, Kamelija, Sophia, Daniel, Aymeric|  |
 | 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | [CP4 Revised outline (due 11/4)](/final_paper/checkpoint-4.qmd) |
 | 12 | Nov 14 | **Bilingualism II** <br> Carey, Chloe, Leann, Katie, Na, Karis, Jo |  | 
-| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Nwai |  [CP5 Paper draft (due 11/21)](/final_paper/checkpoint-5.qmd)   | 
+| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Nwai |  [CP5 Paper draft (due 11/18)](/final_paper/checkpoint-5.qmd)   | 
 | 14 | Nov 28 |**Thanksgiving break (no class)**    | Peer Review II (Tues) |
 | 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Nwai, Mahir | [CP6 Peer review 2 (due 12/5)](/final_paper/checkpoint-6.qmd) |
 | 16 | Dec 9 | No class |    |

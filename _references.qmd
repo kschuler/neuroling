@@ -1,0 +1,43 @@
+## References
+
+Full list of papers **read by** or of interest to the class this semester 
+
+- Week 1: 
+- Week 2: 
+- Week 3: Perspective
+    - **Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.**
+    - **Embick, D., & Poeppel, D. (2015). Towards a computational (ist) neurobiology of language: correlational, integrated and explanatory neurolinguistics. Language, cognition and neuroscience, 30(4), 357-366.**
+- Week 4: Networks
+    - **Malik-Moraleda, S., Ayyash, D., Gallée, J., Affourtit, J., Hoffmann, M., Mineroff, Z., ... & Fedorenko, E. (2022). An investigation across 45 languages and 12 language families reveals a universal language network. Nature Neuroscience, 25(8), 1014-1019.**
+    - **Fedorenko, E., Ivanova, A. A., & Regev, T. I. (2024). The language network as a natural kind within the broader landscape of the human brain. Nature Reviews Neuroscience, 1-24.**
+    - Fedorenko, E., & Thompson-Schill, S. L. (2014). Reworking the language network. Trends in cognitive sciences, 18(3), 120-126.
+    - Friederici, A. D., & Gierhan, S. M. (2013). The language network. Current opinion in neurobiology, 23(2), 250-254.
+- Week 5: Phonemes & Syntax (3)
+    - **Brodbeck, C., Hong, L. E., & Simon, J. Z. (2018). Rapid transformation from auditory to linguistic representations of continuous speech. Current Biology, 28(24), 3976-3983.**
+    - **Ding, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature neuroscience, 19(1), 158-164.**
+    - Scott, S. K., Blank, C. C., Rosen, S., & Wise, R. J. (2000). Identification of a pathway for intelligible speech in the left temporal lobe. Brain, 123(12), 2400-2406.
+    - Fitch, W. T., & Martins, M. D. (2014). Hierarchical processing in music, language, and action: Lashley revisited. Annals of the New York Academy of Sciences, 1316(1), 87-104.
+- Week 6: No class, fall break
+- Week 7: Acquisition 1 (3)
+    - Werker, J. F., & Hensch, T. K. (2015). Critical periods in speech perception: new directions. Annual review of psychology, 66(1), 173-196.
+    - Perani, D., Saccuman, M. C., Scifo, P., Anwander, A., Spada, D., Baldoli, C., ... & Friederici, A. D. (2011). Neural language networks at birth. Proceedings of the National Academy of Sciences, 108(38), 16056-16061.
+    - Friedrich, M., & Friederici, A. D. (2005). Phonotactic knowledge and lexical-semantic processing in one-year-olds: Brain responses to words and nonsense words in picture contexts. Journal of Cognitive Neuroscience, 17(11), 1785-1802.
+- Week 8: No class, Katie @ conference
+- Week 9: Acquisition 2 (3)
+- Week 10: Bilingualism 1 (3)
+    - Pierce, L. J., Klein, D., Chen, J. K., Delcenserie, A., & Genesee, F. (2014). Mapping the unconscious maintenance of a lost first language. Proceedings of the National Academy of Sciences, 111(48), 17314-17319.
+- Week 11: No class, Katie @ conference
+- Week 12: Bilingualism 2 (2) 
+- Week 13: Sign language (3) 
+    - Mayberry, R. I., Chen, J. K., Witcher, P., & Klein, D. (2011). Age of acquisition effects on the functional organization of language in the adult brain. Brain and language, 119(1), 16-29.
+- Week 14: No class, Thanksgiving break 
+- Week 15: Evolution (2)
+    - **Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. Nature neuroscience, 11(4), 426-428.**
+    - **Fitch, W. T. (2018). The biology and evolution of speech: a comparative analysis. Annual review of linguistics, 4(1), 255-279.**
+    - Fisher, S. E., & Scharff, C. (2009). FOXP2 as a molecular window into speech and language. Trends in Genetics, 25(4), 166-177.
+- Week 16: No class, reading period 
+
+
+
+
+

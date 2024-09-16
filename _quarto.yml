@@ -13,12 +13,12 @@ website:
         href: index.qmd
       - text: Resources
         href: index.qmd#resources
-      # - text: Readings
-      #   href: index.qmd#readings
       - text: Final paper
         href: index.qmd#final-paper
       - text: Schedule
         href: index.qmd#schedule
+      - text: References
+        href: index.qmd#references
 format:
   html:
     theme: cosmo
