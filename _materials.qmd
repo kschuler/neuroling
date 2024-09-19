@@ -25,12 +25,12 @@ Full list of papers **read by** or of interest to the class this semester
     - Fedorenko, E., & Thompson-Schill, S. L. (2014). Reworking the language network. Trends in cognitive sciences, 18(3), 120-126.
     - Friederici, A. D., & Gierhan, S. M. (2013). The language network. Current opinion in neurobiology, 23(2), 250-254.
 - Week 5: Phonemes, Syntax, Semantics (3)
-    - **Brodbeck, C., Hong, L. E., & Simon, J. Z. (2018). Rapid transformation from auditory to linguistic representations of continuous speech. Current Biology, 28(24), 3976-3983.**
-    - **Ding, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature neuroscience, 19(1), 158-164.**
+    - Brodbeck, C., Hong, L. E., & Simon, J. Z. (2018). Rapid transformation from auditory to linguistic representations of continuous speech. Current Biology, 28(24), 3976-3983.
+    - Ding, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature neuroscience, 19(1), 158-164.
     - Scott, S. K., Blank, C. C., Rosen, S., & Wise, R. J. (2000). Identification of a pathway for intelligible speech in the left temporal lobe. Brain, 123(12), 2400-2406.
-    - Fitch, W. T., & Martins, M. D. (2014). Hierarchical processing in music, language, and action: Lashley revisited. Annals of the New York Academy of Sciences, 1316(1), 87-104.
+    - **Fitch, W. T., & Martins, M. D. (2014). [Hierarchical processing in music, language, and action: Lashley revisited. Annals of the New York Academy of Sciences](/assests/readings/fitch-martins-2014.pdf), 1316(1), 87-104.**
     - Lau, E. F., Phillips, C., & Poeppel, D. (2008). A cortical network for semantics:(de) constructing the N400. Nature reviews neuroscience, 9(12), 920-933.
-    - Makuuchi, M., Bahlmann, J., Anwander, A., & Friederici, A. D. (2009). Segregating the core computational faculty of human language from working memory. Proceedings of the National Academy of Sciences, 106(20), 8362-8367.
+    - **Makuuchi, M., Bahlmann, J., Anwander, A., & Friederici, A. D. (2009). [Segregating the core computational faculty of human language from working memory. Proceedings of the National Academy of Sciences](/assests/readings/makuuchi-et-al-2009.pdf), 106(20), 8362-8367.**
     - Kaan, E., & Swaab, T. Y. (2002). The brain circuitry of syntactic comprehension. Trends in cognitive sciences, 6(8), 350-356.
 - Week 6: No class, fall break
 - Week 7: Acquisition 1 (3)

@@ -10,7 +10,7 @@ This is the first draft of the schedule. You should see your name 3 times, mostl
 | 2 | Sep 5 | [CNS, neurons, and methods](cns-neurons-methods.qmd) <br> Katie (Instructor) |  |
 | 3 | Sep 12 | **Perspective** <br> Krakauer et al (2017): Chloe, Dillon, Erica <br> Embick & Poeppel (2015): Esther, Mahir, Sophia |  |
 | 4 | Sep 19 | **Networks** <br> [Malik-Moraleda et al 2022](https://canvas.upenn.edu/courses/1809307/assignments/12815591) - Esther, Jo, Na<br>[Fedorenko et al 2024](https://canvas.upenn.edu/courses/1809307/assignments/12815592)- Mahir, Sophia, Jaehyuk |   | 
-| 5 | Sep 26 | **Phonemes & Syntax** <br> Daniel, Dillon, Aymeric, Ninjin, Tali, Jaehyuk | [CP1 Topic selection (due 9/23)](/final_paper/checkpoint-1.qmd)  |
+| 5 | Sep 26 | **Phonemes & Syntax** <br> [Fitch & Martins (2014)](assests/readings/fitch-martins-2014.pdf) - Daniel, Dillon, [Makuuchi et al (2009)](assests/readings/makuuchi-et-al-2009.pdf) - Tali Aymeric, Ninjin, Tali, Jaehyuk | [CP1 Topic selection (due 9/23)](/final_paper/checkpoint-1.qmd)  |
 | 6 | Oct 3 | **Fall break (no class)**  | |
 | 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Nwai, Na | [CP2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
 | 8 | Oct 17 | **No class (Katie @ conference)** | | 
