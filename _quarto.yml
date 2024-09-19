@@ -20,8 +20,12 @@ website:
         contents:
         - text: Readings
           href: index.qmd#readings
+        - text: Reading log
+          href: index.qmd#reading-log
         - text: Final paper
           href: index.qmd#final-paper
+        
+
 
 format:
   html:

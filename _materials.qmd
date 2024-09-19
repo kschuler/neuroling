@@ -1,15 +1,3 @@
-### Final paper
-
-There are 7 checkpoints leading up to (and including) the final paper, due on the following Mondays at noon. Extensions of up to 1 week will be granted for any reason. Beyond that, you can turn in any missed checkpoint for half-credit (50%) by the end of the semester.
-
-- [Checkpoint 1: Topic selection due Sep 23](/final_paper/checkpoint-1.qmd)
-- [Checkpoint 2: Outline due Oct 7](/final_paper/checkpoint-2.qmd)
-- [Checkpoint 3: Peer review 1 due Oct 21](/final_paper/checkpoint-3.qmd)
-- [Checkpoint 4: Revised outline due Nov 4](/final_paper/checkpoint-4.qmd)
-- [Checkpoint 5: Paper draft due Nov 18](/final_paper/checkpoint-5.qmd)
-- [Checkpoint 6: Peer review 2 due Dec 5](/final_paper/checkpoint-6.qmd)
-- [Checkpoint 7: Final paper due Dec 16](/final_paper/checkpoint-7.qmd)
-
 ### Readings 
 
 Full list of papers **read by** or of interest to the class this semester 
@@ -63,9 +51,31 @@ Full list of papers **read by** or of interest to the class this semester
     - Lesage, E., Morgan, B. E., Olson, A. C., Meyer, A. S., & Miall, R. C. (2012). Cerebellar rTMS disrupts predictive language processing. Current Biology, 22(18), R794-R795.
     - Mariën, P., Ackermann, H., Adamaszek, M., Barwood, C. H., Beaton, A., Desmond, J., ... & Ziegler, W. (2014). Consensus paper: language and the cerebellum: an ongoing enigma. The Cerebellum, 13, 386-410.
 
+### Reading log 
+
+As of Friday September 20th, please keep a reading log instead of tracking reading in Perusall.  
+
+1. Create a single google doc you will update throughout the semester. 
+2. Set share permissions to "anyone with the link"
+3. Each week, add a heading that says "Week X: Topic (Date)" (or similar) to your existing document. 
+4. Under the week's heading, include the full citation for each paper.
+5. Under each paper, include a 250-500 word reflection, including (at least): 
+    - a few sentences about the main findings
+    - a few sentences of your own critical reflections on the paper
+    - and 2 discussion questions you have in mind 
 
 
+### Final paper
 
+There are 7 checkpoints leading up to (and including) the final paper, due on the following Mondays at noon. Extensions of up to 1 week will be granted for any reason. Beyond that, you can turn in any missed checkpoint for half-credit (50%) by the end of the semester.
+
+- [Checkpoint 1: Topic selection due Sep 23](/final_paper/checkpoint-1.qmd)
+- [Checkpoint 2: Outline due Oct 7](/final_paper/checkpoint-2.qmd)
+- [Checkpoint 3: Peer review 1 due Oct 21](/final_paper/checkpoint-3.qmd)
+- [Checkpoint 4: Revised outline due Nov 4](/final_paper/checkpoint-4.qmd)
+- [Checkpoint 5: Paper draft due Nov 18](/final_paper/checkpoint-5.qmd)
+- [Checkpoint 6: Peer review 2 due Dec 5](/final_paper/checkpoint-6.qmd)
+- [Checkpoint 7: Final paper due Dec 16](/final_paper/checkpoint-7.qmd)
 
 
 

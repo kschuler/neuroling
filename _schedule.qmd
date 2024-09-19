@@ -1,9 +1,5 @@
 ## Schedule 
 
-::: {.callout-warning title="Under Construction"}
-This is the first draft of the schedule. You should see your name 3 times, mostly on topics you expressed an interest in. 
-:::
-
 | Week | Date |  Topic & Discussion Leaders | Due  |
 | -  | -- |  ------- | --- | ---- |
 | 1 | Aug 29 | [Getting started](getting-started.qmd) <br> Katie (Instructor) | |
