@@ -13,8 +13,13 @@ website:
         href: index.qmd
       - text: Resources
         href: index.qmd#resources
-      - text: Final paper
-        href: index.qmd#final-paper
+      - section: Materials
+        href: index.qmd#materials
+        contents:
+        - text: Readings
+          href: index.qmd#readings
+        - text: Final paper
+          href: index.qmd#final-paper
       - text: Schedule
         href: index.qmd#schedule
       - text: References
