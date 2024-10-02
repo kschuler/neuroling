@@ -8,7 +8,7 @@
 | 4 | Sep 19 | **Networks** <br> [Malik-Moraleda et al 2022](https://canvas.upenn.edu/courses/1809307/assignments/12815591) - Esther, Jo, Na<br>[Fedorenko et al 2024](https://canvas.upenn.edu/courses/1809307/assignments/12815592)- Mahir, Sophia, Jason |   | 
 | 5 | Sep 26 | **Phonemes & Syntax** <br> [Fitch & Martins (2014)](assests/readings/fitch-martins-2014.pdf) - Daniel, Dillon, Tali<br>[Makuuchi et al (2009)](assests/readings/makuuchi-et-al-2009.pdf) - Aymeric, Ninjin, Jason | [CP1 Topic selection (due 9/23)](/final_paper/checkpoint-1.qmd)  |
 | 6 | Oct 3 | **Fall break (no class)**  | |
-| 7 | Oct 10 | **Acquisition I** <br> Carey, Leann, Katie, Karis, Ninjin, Tali, Nwai, Na | [CP2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
+| 7 | Oct 10 | **Acquisition I** <br> [Perani et al 2011](https://paperpile.com/shared/scHW0JaWHQPeqT2bpzcTE5A) - Carey, Leann, Katie<br> [Leroy et al 2011](https://paperpile.com/shared/sbuQsks96Q7y6iBI_lpY3PQ) - Karis, Ninjin<br>[Skeide & Friederichi 2016](https://paperpile.com/shared/sc~PeRO27SR6PWvaIkGbl~w) - Tali, Nwai, Na | [CP2 Outline (due 10/7)](/final_paper/checkpoint-2.qmd)  | 
 | 8 | Oct 17 | **No class (Katie @ conference)** | | 
 | 9 | Oct 24 | **Acquisition II** <br> Alyssa, Chloe, Daniel, Dillon, Esther, Aymeric, Jo, Jason, Kamelija  | [CP3 Peer review 1 (due 10/21)](/final_paper/3)  | 
 | 10 | Oct 31 | **Bilingualism I** <br> Alyssa, Erica, Kamelija, Sophia, Daniel, Aymeric|  |
