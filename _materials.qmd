@@ -79,10 +79,9 @@ There are 7 checkpoints leading up to (and including) the final paper, due on th
 - [Checkpoint 1: Topic selection due Sep 23](/final_paper/checkpoint-1.qmd)
 - [Checkpoint 2: Outline due Oct 7](/final_paper/checkpoint-2.qmd)
 - [Checkpoint 3: Peer review 1 due Oct 21](/final_paper/checkpoint-3.qmd)
-- [Checkpoint 4: Revised outline due Nov 4](/final_paper/checkpoint-4.qmd)
-- [Checkpoint 5: Paper draft due Nov 18](/final_paper/checkpoint-5.qmd)
-- [Checkpoint 6: Peer review 2 due Dec 5](/final_paper/checkpoint-6.qmd)
-- [Checkpoint 7: Final paper due Dec 16](/final_paper/checkpoint-7.qmd)
+- [Checkpoint 4: Paper draft due Nov 18](/final_paper/checkpoint-5.qmd)
+- [Checkpoint 5: Peer review 2 due Dec 5](/final_paper/checkpoint-6.qmd)
+- [Checkpoint 6: Final paper due Dec 16](/final_paper/checkpoint-7.qmd)
 
 
 

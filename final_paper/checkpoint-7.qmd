@@ -1,5 +1,5 @@
 ---
-title: "Checkpoint 7: Final paper" 
+title: "Checkpoint 6: Final paper" 
 subtitle: Due Monday Dec 16 at noon
 
 ---
