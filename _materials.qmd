@@ -74,7 +74,7 @@ As of Friday September 20th, please keep a reading log ([sample](https://docs.go
 
 ### Final paper
 
-There are 7 checkpoints leading up to (and including) the final paper, due on the following Mondays at noon. Extensions of up to 1 week will be granted for any reason. Beyond that, you can turn in any missed checkpoint for half-credit (50%) by the end of the semester.
+There are ~~7~~ 6 checkpoints leading up to (and including) the final paper, due on the following Mondays at noon. Extensions of up to 1 week will be granted for any reason. Beyond that, you can turn in any missed checkpoint for half-credit (50%) by the end of the semester.
 
 - [Checkpoint 1: Topic selection due Sep 23](/final_paper/checkpoint-1.qmd)
 - [Checkpoint 2: Outline due Oct 7](/final_paper/checkpoint-2.qmd)

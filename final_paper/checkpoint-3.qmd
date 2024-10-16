@@ -1,6 +1,6 @@
 ---
 title: "Checkpoint 3: Peer review 1"
-subtitle: Due Monday Oct 21 at noon
+subtitle: Due Monday Oct ~~21~~ 28 at noon
 
 ---
 
@@ -28,11 +28,11 @@ Determine if the conclusion effectively ties together the article’s main point
 6. **Evaluate the Emphasis on *News & Views* Style (for each outline):**  
 Evaluate the clarity of the outline, focusing on whether it shows a plan to write clearly and engage non-experts. Check if the outline maintains a good balance between accessibility and depth, and whether the article can keep readers engaged. Suggest ways to make the outline more engaging, such as including surprising facts, real-world relevance, or thought-provoking questions.
 
-7. **AI Use:*** 
+7. **AI Use: (for each outline)** 
 Evaluate whether the outline is primarily human-written or if AI was used appropriately as a writing partner. If the outline feels original and personal, with AI perhaps assisting in structure or grammar, score it highly. If it seems overly formal, generic, or disconnected from the student's own voice, it may be mostly AI-generated.
 
 #### Submission and Evaluation:
 
-- **Submission:** Use Perusall to review and comment on the three outlines you have been assigned. As you read through each outline, add specific comments and suggestions directly on the document. Ensure your comments cover each section (Introduction, Summary of Key Findings, Broader Implications, Conclusion) as well as the overall engagement and *News & Views* style.
+- **Submission:** Use ~~Perusall~~ Canvas to review and comment on the three outlines you have been assigned. As you read through each outline, use the **Rubric** to provide a score for each of the sectiosn above. Please also add **specific comments and suggestions directly on the document**. 
   
-- **Evaluation:** Your peers will use your comments to revise their outlines for their *News & Views* articles. Focus on whether they are meeting the dual goals of clarity and depth, and if their outlines show a clear plan for engaging a non-expert audience.
+- **Evaluation:** Your peers will use your comments to revise their outlines for their *News & Views* paper draft. 
