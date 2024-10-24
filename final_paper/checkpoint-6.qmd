@@ -1,5 +1,5 @@
 ---
-title: "Checkpoint 6: Peer review 2"
+title: "Checkpoint 5: Peer review 2"
 subtitle: Due Monday Dec 2 at noon
 
 ---
