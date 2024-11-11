@@ -47,9 +47,9 @@ Full list of papers **read by** or of interest to the class this semester
     - [Osterhout, L., McLaughlin, J., Pitkänen, I., Frenck-Mestre, C., & Molinaro, N. (2006). Novice learners, longitudinal designs, and event‐related potentials: A means for exploring the neurocognition of second language processing: Novice learners, longitudinal designs, ERPs. Language Learning, 56(s1), 199–230.](https://paperpile.com/shared/sgTjezxGIRXWZ_OrG2iq3BQ)
     - [Bialystok, E., Craik, F. I. M., & Freedman, M. (2007). Bilingualism as a protection against the onset of symptoms of dementia. Neuropsychologia, 45(2), 459–464.](https://paperpile.com/shared/srBh_WoLBQ2WoR5ue_6wkpg)
 - Week 13: Sign language (3) 
-    - Mayberry, R. I., Chen, J. K., Witcher, P., & Klein, D. (2011). Age of acquisition effects on the functional organization of language in the adult brain. Brain and language, 119(1), 16-29.
-    - Nishimura, H., Hashikawa, K., Doi, K., Iwaki, T., Watanabe, Y., Kusuoka, H., ... & Kubo, T. (1999). Sign language ‘heard’in the auditory cortex. Nature, 397(6715), 116-116.
-    - Petitto, L. A., Zatorre, R. J., Gauna, K., Nikelski, E. J., Dostie, D., & Evans, A. C. (2000). Speech-like cerebral activity in profoundly deaf people processing signed languages: implications for the neural basis of human language. Proceedings of the National Academy of Sciences, 97(25), 13961-13966.
+    - [Mayberry, R. I., Chen, J. K., Witcher, P., & Klein, D. (2011). Age of acquisition effects on the functional organization of language in the adult brain. Brain and language, 119(1), 16-29.](https://paperpile.com/shared/sI9YdcjjXQ52G_VkyIYXINg)
+    - [Nishimura, H., Hashikawa, K., Doi, K., Iwaki, T., Watanabe, Y., Kusuoka, H., ... & Kubo, T. (1999). Sign language ‘heard’in the auditory cortex. Nature, 397(6715), 116-116.](https://paperpile.com/shared/sW2iczH2cSUKdoDObrMhpWg)
+    - [Petitto, L. A., Zatorre, R. J., Gauna, K., Nikelski, E. J., Dostie, D., & Evans, A. C. (2000). Speech-like cerebral activity in profoundly deaf people processing signed languages: implications for the neural basis of human language. Proceedings of the National Academy of Sciences, 97(25), 13961-13966.](https://paperpile.com/shared/szUUCYuuFQ0ilgSGeAZMpMw)
 - Week 14: No class, Thanksgiving break 
 - Week 15: Evolution (2)
     - [Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. Nature neuroscience, 11(4), 426-428.](https://paperpile.com/shared/sxFcFs3goS02b_ZUz4sItZg)
