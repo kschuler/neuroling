@@ -14,7 +14,7 @@
 | 10 | Oct 31 | **Bilingualism I** <br> [Kim et al 1997](https://paperpile.com/shared/sWOkFczB6RBWf8PRruWsuXg) - Alyssa, Erica<br>[Pillips & Pylkanen 2021](https://paperpile.com/shared/swBkiPMnWS2WKp6AuizPheA) - Sophia, Aymeric | [CP3 Peer review (due 10/08)](final_paper/checkpoint-3.qmd) |
 | 11 | Nov 7 | **Symposium (Zoom):**<br>**Neural Coding in Speech, Language and Cognition**  | |
 | 12 | Nov 14 | **Bilingualism II** <br> [Pallier et al 2003](https://paperpile.com/shared/shS5TPdTURryke2ECX1wAEw) - Kamelija, Daniel, Carey <br>[Osterhout et al 2006](https://paperpile.com/shared/sgTjezxGIRXWZ_OrG2iq3BQ)- Chloe, Leann, Katie <br>[Bialystok et al 2007](https://paperpile.com/shared/srBh_WoLBQ2WoR5ue_6wkpg) - Na, Karis, Jo |  | 
-| 13 | Nov 21 | **Sign language** <br> Carey, Leann, Katie, Karis, Tali, Nwai |  [CP4 Paper draft (due 11/18)](/final_paper/checkpoint-5.qmd)   | 
+| 13 | Nov 21 | **Sign language** <br> [Rilling et al 2008](https://paperpile.com/shared/sxFcFs3goS02b_ZUz4sItZg) - Carey, Leann<br> [Sakai et al 2011](https://paperpile.com/shared/sF5DZ4ELXRNSDh5oWw4gu~Q)) - Katie, Karis<br> [Bolhuis & Moorman 2015](https://paperpile.com/shared/s27HrrjAARM2o6aGrV9sSPg) - Tali, Nwai |  [CP4 Paper draft (due 11/18)](/final_paper/checkpoint-5.qmd)   | 
 | 14 | Nov 28 |**Thanksgiving break (no class)**    | Peer Review II (Tues) |
 | 15 | Dec 5 | **Evolution**  <br>  Alyssa, Erica, Ninjin, Kamelija, Nwai, Mahir | [CP6 Peer review 2 (due 12/5)](/final_paper/checkpoint-6.qmd) |
 | 16 | Dec 9 | No class |    |

@@ -52,10 +52,12 @@ Full list of papers **read by** or of interest to the class this semester
     - Petitto, L. A., Zatorre, R. J., Gauna, K., Nikelski, E. J., Dostie, D., & Evans, A. C. (2000). Speech-like cerebral activity in profoundly deaf people processing signed languages: implications for the neural basis of human language. Proceedings of the National Academy of Sciences, 97(25), 13961-13966.
 - Week 14: No class, Thanksgiving break 
 - Week 15: Evolution (2)
-    - **Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. Nature neuroscience, 11(4), 426-428.**
-    - **Fitch, W. T. (2018). The biology and evolution of speech: a comparative analysis. Annual review of linguistics, 4(1), 255-279.**
+    - [Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. Nature neuroscience, 11(4), 426-428.](https://paperpile.com/shared/sxFcFs3goS02b_ZUz4sItZg)
+    - Fitch, W. T. (2018). The biology and evolution of speech: a comparative analysis. Annual review of linguistics, 4(1), 255-279.**
     - Fisher, S. E., & Scharff, C. (2009). FOXP2 as a molecular window into speech and language. Trends in Genetics, 25(4), 166-177.
     - Wilson, B., Marslen-Wilson, W. D., & Petkov, C. I. (2017). Conserved sequence processing in primate frontal cortex. Trends in neurosciences, 40(2), 72-82.
+    - [Sakai, T., Mikami, A., Tomonaga, M., Matsui, M., Suzuki, J., Hamada, Y., Tanaka, M., Miyabe-Nishiwaki, T., Makishima, H., Nakatsukasa, M., & Matsuzawa, T. (2011). Differential prefrontal white matter development in chimpanzees and humans. Current Biology: CB, 21(16), 1397–1402.](https://paperpile.com/shared/sF5DZ4ELXRNSDh5oWw4gu~Q)
+    - [Bolhuis, J. J., & Moorman, S. (2015). Birdsong memory and the brain: in search of the template. Neuroscience and Biobehavioral Reviews, 50, 41–55.](https://paperpile.com/shared/s27HrrjAARM2o6aGrV9sSPg)
 - Week 16: No class, reading period 
 - Not covered this year: Cerebellum
     - Lesage, E., Morgan, B. E., Olson, A. C., Meyer, A. S., & Miall, R. C. (2012). Cerebellar rTMS disrupts predictive language processing. Current Biology, 22(18), R794-R795.
